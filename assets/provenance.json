@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "upstream_repository": "Translate-with-LOVE/Ra2-zh_hans-main",
+  "upstream_commit": "9945562ad6d0be7e84750ebe8d50cee778e5ebff",
+  "voice_baseline_sha256": "06b7547b6772ce94b41c69964b62a7b8f2981e79bb825c35be7d4f4fc2e59b94",
+  "voice_policy": "Frozen R2 game inputs; pending review candidates excluded",
+  "bdf_sha256": "d5a336bfb490bc3fa1523b2c9716b3c0907ab302280d83f748d78eb9aaf2edac",
+  "fnt_sha256": "e84a00e33eb0c0b63f62c396f3820ceef996aef5ca6ed4245006df98a5d7ef14"
+}

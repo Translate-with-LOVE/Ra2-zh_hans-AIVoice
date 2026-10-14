@@ -1,0 +1,13 @@
+*.wav binary
+*.bag binary
+*.idx binary
+*.fnt binary
+*.bik binary
+*.shp binary
+*.png binary
+*.exe binary
+*.bdf -text
+subtitle/*.txt -text
+credits/*.txt -text
+_src_files/language/credits.txt -text
+_src_files/langmd/creditsmd.txt -text
